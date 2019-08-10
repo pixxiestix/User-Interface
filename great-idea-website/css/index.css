@@ -66,9 +66,9 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 
 body {
-	width: 880px;
-	margin: 50px;
-	align-content: center;
+	width: 900px;
+	margin: 0 auto;
+	vertical-align: middle;
 }
 
 .block {
@@ -109,10 +109,10 @@ nav {
 .call .call_text {
 	display: inline-block;
 	vertical-align: top;
-	font-size: 80px;
+	font-size: 70px;
 	margin: 100px 0px;
 	text-align: center;
-	padding: 0px 60px;
+	padding: 0px 55px;
 	width: 55%;
 }
 
